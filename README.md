@@ -12,18 +12,16 @@ It also includes a matching terminal theme!
 
 ## Color Semantics
 
-- <span style="color:#F8F8F1">**White**</span>: The main <span style="color:#F8F8F1">`foreground`</span> color that applies to all basic token types such as variables, namespaces, and operators.
-- <span style="color:#75705B">**Grey**</span>: The <span style="color:#75705B">`background`</span> color for elements which serve to annotate the code, notably comments.
-- <span style="color:#FF0071">**Red**</span>: For <span style="color:#FF0071">`reserved`</span> language-specific elements like keywords and tags.
-- <span style="color:#94E400">**Green**</span>: For <span style="color:#94E400">`toxic`</span> mutators which execute functionality, notably functions.
-- <span style="color:#B47EFF">**Purple**</span>: For <span style="color:#B47EFF">`epic`</span> (so cool there is only one of them) elements of a language which are atomic, immutable, or self-referencing such as Integers, Booleans, Regular Expressions, and Atoms.
-- <span style="color:#1CDBF2">**Cyan**</span>: For <span style="color:#1CDBF2">`blueprint`</span> elements such as language primitives, and types.
-- <span style="color:#EADA61">**Yellow**</span>: The <span style="color:#EADA61">`mellow`</span> color, good for high-frequency token types such as quoted string values in all languages.
+- **White**: The main `foreground` color that applies to all basic token types such as variables, namespaces, and operators.
+- **Grey**: The `background` color for elements which serve to annotate the code, notably comments.
+- **Red**: For `reserved` language-specific elements like keywords and tags.
+- **Green**: For `toxic` mutators which execute functionality, notably functions.
+- **Purple**: For `epic` (so cool there is only one of them) elements of a language which are atomic, immutable, or self-referencing such as Integers, Booleans, Regular Expressions, and Atoms.
+- **Cyan**: For `blueprint` elements such as language primitives, and types.
+- **Yellow**: The `mellow` color, good for high-frequency token types such as quoted string values in all languages.
 
 ## Tailored Languages
 - css
-- eex
-- elixir
 - erb
 - html
 - ini
