@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "id": "Monokaizen",
+        "label": "Monokaizen",
+        "path": "./themes/monokaizen-color-theme.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "id": "Monokaizen Muted",
+        "label": "Monokaizen Muted",
+        "path": "./themes/monokaizen-muted-color-theme.json",
+        "uiTheme": "vs-dark"
+      }
+    ]
+  },
+  "description": "Monokai-based semantic highlighting theme.",
+  "displayName": "Monokaizen",
+  "engines": {
+    "vscode": "*"
+  },
+  "icon": "images/Icon.png",
+  "name": "monokaizen",
+  "publisher": "AlexanderSanchez",
+  "version": "0.1.3"
+}
