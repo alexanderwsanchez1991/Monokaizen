@@ -88,6 +88,7 @@
     "list.inactiveSelectionBackground": "#414339",
     "list.warningForeground": "#EADA61",
     "menu.background": "#1E1F1C",
+    "menu.border": "#75705B",
     "menu.foreground": "#CCCCCC",
     "merge.currentContentBackground": "#94E40022",
     "merge.currentHeaderBackground": "#94E40022",

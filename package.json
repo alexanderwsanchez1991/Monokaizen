@@ -9,12 +9,6 @@
         "label": "Monokaizen",
         "path": "./themes/monokaizen-color-theme.json",
         "uiTheme": "vs-dark"
-      },
-      {
-        "id": "Monokaizen Muted",
-        "label": "Monokaizen Muted",
-        "path": "./themes/monokaizen-muted-color-theme.json",
-        "uiTheme": "vs-dark"
       }
     ]
   },
@@ -26,5 +20,5 @@
   "icon": "images/Icon.png",
   "name": "monokaizen",
   "publisher": "AlexanderSanchez",
-  "version": "0.1.5"
+  "version": "0.1.6"
 }
