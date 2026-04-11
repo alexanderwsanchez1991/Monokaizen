@@ -1,5 +1,8 @@
 # Monokaizen (Mono改善)
 
+![Monokaizen Theme](./images/Editor.png)
+
+
 ## Description
 
 A minimalist semantic dark theme inspired by the original 'Monokai' introduced in Sublime Text, further enhanced with UI elements from 'Monokai Classic'.

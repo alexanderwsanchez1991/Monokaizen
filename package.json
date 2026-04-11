@@ -20,5 +20,9 @@
   "icon": "images/Icon.png",
   "name": "monokaizen",
   "publisher": "AlexanderSanchez",
-  "version": "1.0.6"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexanderwsanchez1991/Monokaizen"
+  },
+  "version": "1.0.7"
 }
