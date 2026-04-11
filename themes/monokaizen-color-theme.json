@@ -129,7 +129,7 @@
     "editor.rangeHighlightBackground": "#F8F8F20C",
     "editor.rangeHighlightBorder": "#00000000",
     "editor.selectionBackground": "#C0C1B526",
-    "editor.selectionHighlightBackground": "#C0C1B533",
+    "editor.selectionHighlightBackground": "#C0C1B526",
     "editor.selectionHighlightBorder": "#00000000",
     "editor.stackFrameHighlightBackground": "#C0C1B526",
     "editor.symbolHighlightBackground": "#FD971F4D",
