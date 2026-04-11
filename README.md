@@ -39,7 +39,7 @@ This theme has been tailored to several languages to semantically highlight dist
 ## Recommendations
 
 ### CaskaydiaCove Nerd Font
-For a good coding font check out `CaskaydiaCove Nerd Font` a fork of `Cascadia Code` by Microsoft. The Nerd Font enhanced variant can be found [here](https://www.nerdfonts.com/font-downloads)
+For a good coding font check out `CaskaydiaCove` a fork of `Cascadia Code` by Microsoft. The Nerd Font enhanced variant can be found [here](https://www.nerdfonts.com/font-downloads)
 
 ### Settings
 Additional settings to enhance the 'minimalist' experience:
